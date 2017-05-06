@@ -238,7 +238,7 @@
                         android:layout_weight="1"
                         android:background="#ffffff"
                         android:paddingBottom="0dp"
-                        android:text="SensorSEU27.Temperature"
+                        android:text="SensorSEU27.TemperatureXXX2"
                         android:textSize="14dp" />
 
 
