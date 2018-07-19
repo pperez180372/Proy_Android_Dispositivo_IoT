@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ppere.Estresador_Orion">
+    package="com.example.ppere.dispositivo_iot_fiware">
     <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.ppere.Estresador_Orion.MainActivity">
+        <activity android:name="com.example.ppere.dispositivo_iot_fiware.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

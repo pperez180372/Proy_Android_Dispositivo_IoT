@@ -1,4 +1,4 @@
-package com.example.ppere.Estresador_Orion;
+package com.example.ppere.dispositivo_iot_fiware;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

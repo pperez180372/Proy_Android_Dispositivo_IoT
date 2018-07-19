@@ -1,4 +1,4 @@
-package com.example.ppere.Estresador_Orion;
+package com.example.ppere.dipositivo_iot_fiware;
 
 import org.junit.Test;
 
